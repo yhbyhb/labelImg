@@ -1,6 +1,1 @@
-blue
-yellow
-white
-red
-none
-undefined
+worker
