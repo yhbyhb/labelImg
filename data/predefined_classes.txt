@@ -3,4 +3,5 @@ yellow
 white
 red
 none
-undefined
+black
+green
