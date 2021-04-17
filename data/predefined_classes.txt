@@ -5,3 +5,4 @@ red
 none
 black
 green
+undefined
